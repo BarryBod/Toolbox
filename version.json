@@ -1,0 +1,7 @@
+{
+    "latest_version": "1.0.1",
+    "download_url": "https://gitee.com/你的用户名/python-toolbox/releases/download/v1.0.1/toolbox_v1.0.1.exe",
+    "update_log": "1. 新增文本加密功能；2. 修复密码生成bug",
+    "file_hash": "这里填你exe文件的SHA256值",
+    "hash_type": "sha256"
+}
